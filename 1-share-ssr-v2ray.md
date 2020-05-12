@@ -7,32 +7,25 @@
 	- [Telegram群组](#telegram群组)
 
 
-### 前言
-
-以下分享的链接均从网络收集，都是可以直接使用的
-
-如果你有好的网站希望可以和大家一起分享哦
-
-### 收录站点条件
-
-不收费、服务器稳定、有效期长
-
 使用方法参考：[使用教程](README.md#使用教程)
 
 
 ### 注册站点
 
+> 有的机场刚刚开的，会员人数不多的，网站域名奇葩的，满足这些条件的不建议大家充值，在充值前可以加入机场的官方群或者TG群组
+
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [中信加速器](https://api.233fly.com:39786/)     | 无       | ✅        | ❌       | 速度快，不建议用来看视频，每月签到能有3G左右，可购买套餐2G¥7.5，个人觉得很划算，填写邀请码可多获得流量，邀请码：XYKZ9         |
-| [凿壁偷光](https://hi.ssrcf.top/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，上百个节点，用户多         |
-| [飞鱼](https://yuyu.cool/register?aff=3026)         | 无       | ✅        | ❌        | 速度稳定         |
-| [好好学习](https://edu.upday.xyz/register?aff=73688)         | 无       | ✅        | ❌        | 节点多         |
-| [极速](https://www.jisu365.vip/auth/register?code=VYTS)         | 无       | ✅        | ❌        | 新机场白嫖，免费使用         |
-| [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 使用**多开分身**可刷邀请         |
-| [西部世界](https://westssr.club/i/iv191031/NYyp0Iw)         | 无       | ✅        | ❌        | 验证邮箱送6天，可做备选方案        |
-
-
+| [中信加速器](http://suo.im/6xCHr6)     | 无       | ✅        | ❌       | 速度延迟稳定，每月签到能有3G左右，送500M邀请码：XYKZ9         |
+| [飞鱼云](http://suo.im/6kE32B)         | 无       | ✅        | ❌        | 速度稳定         |
+| [SockBoom](http://suo.im/5NOALM)         | 无       | ✅        | ❌        | 白菜价套餐 |
+| [墙裂](http://suo.im/5VkNQt)         | 无       | ✅        | ❌        | 性价比高的v2ray |
+| [速鹰666](http://suo.im/5VkP5z)         | 无       | ✅        | ❌        | 注册送10G |
+| [好好学习](http://suo.im/5VkNQj)         | 无       | ✅        | ❌        | 节点多，用户多         |
+| [凿壁偷光](http://suo.im/6aj1QF)     | 无       | ✅        | ❌       | 老牌机场，上百个节点，用户多         |
+| [西部世界](http://suo.im/6oF4vd)         | 无       | ✅        | ❌        | 验证邮箱送6天会员        |
+| [蚂蚁加速器](https://ant.antss029.com/)         | 无       | ❌        | ❌        | 备选，使用**多开分身**可刷邀请         |
+| [Dler Cloud](http://suo.im/69SRz3)     | 无       | ✅        | ❌       | [lhie1](https://github.com/lhie1/Rules) 大佬的机场，受不了白嫖速度的可以上车         |
 
 ---
 
@@ -63,10 +56,6 @@
 | [GRIGOR'S](https://gdmi.weebly.com/3118523398online.html) | 未知     | ❌        | ✅       | 包含教程                             |
 
 
-SSR订阅链接分享：
-
-https://rss.ssyes.top/s/uCKmK?ver=1
-
 ---
 
 
@@ -77,17 +66,13 @@ https://rss.ssyes.top/s/uCKmK?ver=1
 | [放牧的风](https://www.youneed.win/free-v2ray)               | 天       | ❌        | ✅        | 推荐                |
 | [FreeV2ray](https://view.freev2ray.org/)               | 天       | ❌        | ❌        | 推荐                |
 
-V2ray订阅链接分享：
-
-https://rss.ssyes.top/s/uCKmK?ver=2
-
 ---
 
 ## 订阅链接
 
 ### Telegram群组
 
-作用：以下群组每天都会免费分享各种类型的节点，建议加入以下的群组以获取可用节点。
+作用：以下群组每天都会免费分享各种类型的节点，建议加入以下的群组以备不时之需。
 
 使用方法：
 
@@ -116,5 +101,5 @@ https://rss.ssyes.top/s/uCKmK?ver=2
 
 [MTPROTO公益TG代理发放频道](https://t.me/onessr)
 
-注：如果需要相关工具，请 [点击此处](https://github.com/selierlin/fq)
+注：如果需要相关工具，请 [点击此处](https://github.com/selierlin/Share-SSR-V2ray/blob/master/tools.md)
 

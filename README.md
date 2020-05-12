@@ -2,7 +2,7 @@
 
 通过本文档您可以解决科学上网问题，但是这并不意味着是长期使用的方法，当你成功上网后，请另寻更加稳定的方法
 
-临时存储网盘：[蓝奏云](https://www.lanzous.com/b1008660)  密码: *6j5h*
+临时存储网盘：[蓝奏云](http://suo.im/5A56zM)  密码: *6j5h*
 
 ---
 
@@ -15,7 +15,7 @@
 	- [1. 浏览器插件](#1-浏览器插件)
 	- [2. 镜像网站](#2-镜像网站)
 	- [3. SS/SSR/V2ray分享账号](#3-ssssrv2ray分享账号)
-	- [4. 直连网站](#4-直连网站)
+	- [4. 直连网站](#4-直连)
 - [工具下载](#工具下载)
 - [使用教程](#使用教程)
 	- [Shadowsocks 使用教程](#shadowsocks-使用教程)
@@ -38,7 +38,7 @@
 
 [Google Helper](http://googlehelper.net/)
 
-无法访问的可以点击这里，[下载地址](https://www.lanzous.com/b1008660)  密码: *6j5h*
+无法访问的可以点击这里，[下载地址](http://suo.im/5A56zM)  密码: *6j5h*
 
 安装方法：[百度经验](https://jingyan.baidu.com/article/a681b0de7ddd313b19434661.html)
 
@@ -50,7 +50,11 @@
 
 [http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)：【推荐】
 
+[https://g.louqunhua.top/](https://g.louqunhua.top/)：【推荐】
+
 [http://ac.scmor.com/](http://ac.scmor.com/)
+
+[https://google987.azurewebsites.net/](https://google987.azurewebsites.net/)
 
 其它镜像：
 
@@ -76,7 +80,7 @@
 
 [龙卷风浏览器](http://s1.longs1.vip/)：Windows端解决科学上网的浏览器
 
-[Chromium浏览器](https://github.com/jjqqkk/chromium)：解决科学上网的浏览器（支持Windows和macOS），与上面的区别就是此浏览器的版本较高
+[Chromium浏览器](https://github.com/jjqqkk/jjqqkk)：解决科学上网的浏览器（支持Windows和macOS），与上面的区别就是此浏览器的版本较高，现安装包名为：JJQQKK-2.6.7 ，安装的时候可能需要.net 4.6的环境，可以在网盘中下载安装
 
 ---
 
