@@ -18,6 +18,7 @@
 	- [4. 直连网站](#4-直连)
 - [工具下载](#工具下载)
 - [使用教程](#使用教程)
+	- [Clash 使用教程](#Clash-使用教程)
 	- [Shadowsocks 使用教程](#shadowsocks-使用教程)
 	- [ShadowsockR 使用教程](#shadowsockR-使用教程)
 	- [V2ray 使用教程](#v2ray-使用教程)
@@ -103,6 +104,10 @@
 
 ### 使用教程
 
+#### Clash 使用教程
+
+[Windows](Clash/Clash_Windows.md)  |  [Mac](Clash/Clash_Mac.md) |  [Android](Clash/Clash_Android.md) 
+
 #### Shadowsocks 使用教程
 
 [Windows](SS/2-windows-setup-guide-cn.md)  |  [macOS](SS/3-macos-setup-guide-cn.md)  |  [iOS](SS/4-ios-setup-guide-cn.md)  |  [Android](SS/5-android-setup-guide-cn.md)  |  [Linux](SS/6-linux-setup-guide-cn.md)
@@ -113,7 +118,8 @@
 
 #### V2ray 使用教程
 
-TODO
+[Windows](V2ray/V2rayN_Windows.md)  |  [Android](V2ray/V2ray_Android.md) 
+
 
 #### 其它教程
 
