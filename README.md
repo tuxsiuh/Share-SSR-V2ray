@@ -1,8 +1,13 @@
+**本文档仅为学习交流使用**
+
 本文档只保证可科学上网，并不保证稳定、速度。
 
 通过本文档您可以解决科学上网问题，但是这并不意味着是长期使用的方法，当你成功上网后，请另寻更加稳定的方法
 
-临时存储网盘：[蓝奏云](https://if404.lanzoui.com/b0a2h0kfa)  密码: *6j5h*
+
+临时存储网盘：[城通网盘](https://url86.ctfile.com/d/34115386-45461308-909fa7)  密码: *ssrr*
+
+> 蓝奏云文件被屏蔽，所以换了一个，如果有更好的网盘推荐，欢迎发邮
 
 ---
 
@@ -49,13 +54,12 @@
 
 > 临时访问谷歌，且不需要使用任何工具，缺点无法访问非谷歌站点
 
+[https://g.luciaz.me](https://g.luciaz.me/extdomains/www.google.com)：需要验证答案，答案分别为【心灵之约】【水朝夕】【csxy@123】，完成后会跳转google,然后收藏地址即可。
+
+[http://ac.scmor.com/](http://ac.scmor.com/)：【推荐】
+
 [http://scholar.hedasudi.com/](http://scholar.hedasudi.com/)：【推荐】
 
-[https://g.louqunhua.top/](https://g.louqunhua.top/)：【推荐】
-
-[http://ac.scmor.com/](http://ac.scmor.com/)
-
-[https://google987.azurewebsites.net/](https://google987.azurewebsites.net/)
 
 其它镜像：
 
@@ -121,9 +125,6 @@
 
 [Windows](V2ray/V2rayN_Windows.md)  |  [Android](V2ray/V2ray_Android.md) 
 
-#### QV2ray 使用教程
-
-[TODO:Windows](QV2ray/QV2ray_Windows.md)
 
 #### 其它教程
 

@@ -23,21 +23,26 @@
 
 > 以下为需要注册的站点（机场），通过机场中免费或付费的套餐，再配合工具即可科学上网。具体使用注册后机场中都会有提供教程，或者可查看本文档中的教程。
 > 
-> 有的机场刚刚开的，会员人数不多的，网站域名奇葩的，建议大家只充值短时间的套餐，在充值前可以加入机场的官方群或者TG群组
+> 有的机场刚刚开的，会员人数不多的，网站域名奇葩的，不建议大家充值过长的套餐，在充值前可以加入机场的官方群或者TG群组
 
 | 名称                                                         | 试用天数 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [中信加速器](https://api.233fly.com:39786/main_page?aff=XYKZ9&c=1)     | 无       | ✅        | ❌       | 速度延迟稳定，每月签到能有3G左右，送500M邀请码：XYKZ9         |
-| [极客云](https://jike138.net/auth/register?code=kP24)         | 无       | ✅        | ❌        | 注册送10G |
-| [西部世界](https://xbsj9895.xyz/i/iv201207/exxp8Un)         | 6       | ✅        | ❌        | 验证邮箱送会员，推荐        |
-| [SockBoom](https://sockboom.lol/auth/register?affid=96955)         | 1       | ✅        | ❌        | 白菜价套餐，节点多 |
-| [Inss Cloud](https://inss.xyz/#/register?code=eVq3FHeO)     | 7       | ✅        | ❌       | 注册送20G，白菜价         |
-| [凿壁偷光](https://v2.freeyes.xyz/auth/register?code=007)     | 无       | ✅        | ❌       | 老牌机场，节点多，用户多速度不稳定，不建议充值         |
-| [Miaona](https://miaona.xyz/#/register?code=ZG7cXgnE)     | 无       | ✅        | ❌       | 相对稳定         |
-| [筋斗云](https://jdy666.xyz/auth/register?code=k56R)     | 30       | ✅        | ❌       | 注册送30G，每天签到送1GB-5GB流量         |
-| [优云666](https://youyun555.net/auth/register?code=8G2d)     | 无       | ✅        | ❌       | 注册送10G，每日签到送1-7G流量         |
-| [速蛙云](https://i.ok7.icu/2jj)     | 1       | ✅        | ❌       | 注册送1天会员，速度快，小流量年费套餐性价比高         |
-| [iKuuu](https://ikuuu.org/auth/register)     | 无限       | ✅        | ❌       | 每月50G         |
+| [速蛙云](https://i.ok7.icu/2jj)     | 1       | ✅        | ❌       | 注册送1天会员，速度快，年费套餐性价比高         |
+| [极客云](https://jike138.com/auth/register?code=kP24)         | 无       | ✅        | ❌        | 注册送10G |
+| [西部世界](https://xbsj6148.xyz/i/iv210923/exxp8Un)         | 6       | ✅        | ❌        | 验证邮箱送会员，推荐        |
+| [筋斗云(飞速云)](https://feisucloud.com/auth/register?code=CYgU)     | 30       | ✅        | ❌       | 注册送500M，每天签到最高送200M         |
+| [优云666](https://youyun222.net/auth/register?code=8G2d) | 无       | ✅        | ❌      | 注册送10G，每日签到送1-7G流量         |
+| [飞鸟云](https://feiniaoyun.tk/#/register?code=03lzB4ck) | 1 | ✅ | ❌ | 试用1天1G，不验证邮箱 |
+| [速鹰666](https://suying222.net/auth/register?code=MwSm)     | 无       | ✅        | ❌       | 有推荐过，无免费节点，节点质量还可以 |
+| [在人间](https://www.lovefromgelifen.xyz/#/register?code=8PJFt15j)     | 无       | ✅        | ❌       | 无试用         |
+| [小强云](https://xqcloud.net/#/register?code=B9i21kYv) | 1 | ✅ | ❌ | 试用1天，月费3，66G流量，不验证邮箱 |
+| [小白云](https://ninihao.xyz/auth/register?code=F0nX)     | 无       | ✅        | ❌       | 注册送100G及三个免费节点，不验证邮箱，备选   |
+| [灵魂云](https://www.linghunyun.com/#/register?code=19FjW9p4) | 2/24 | ✅ | ❌ | 只试用两小时，节点质量不错 |
+| [极简](https://www.wogg.site/auth/register?code=2saR) | 1 | ✅ | ❌ | 试用一天VIP1节点，不验证邮箱 |
+| [Teacat](https://teacat.cloud/#/register?code=U5wQIWFk) | 7 | ✅ | ❌ | 试用7天1G，流量有点少 |
+| [小鸟云](https://niaoyun.fun/auth/register?code=qmUm) | 30 | ✅ | ❌ | 白嫖，不验证邮箱，不建议充值 |
+| [上网课](https://shangwangke.org/auth/register?code=hRWc) | N | ✅ | ✅ | 白嫖无限制时间，需要绑定TG，不建议充值 |
 
 ---
 
@@ -47,7 +52,8 @@
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [free-ss](https://free-ss.site/)                           | 时       | ❌        | ✅        | ss@rohankdd.com |
 | [放牧的风](https://www.youneed.win/free-ss)         | 天       | ❌        | ✅        | 推荐         |
-| [iShadow](https://get.ishadowx.biz/)                           | 6小时    | ❌        | ❌        | 位于页面中间 |
+| [iShadow](https://get.ishadowx.biz/)                           | 6小时    | ❌        | ❌        | 位于图片中 |
+| [免费ss账号分享](https://freefq.com/free-ss/) | 天 | ❌ | ✅ |  |
 
 ---
 
@@ -55,12 +61,12 @@
 
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
-| [Free Proxies](https://proxypoolsstest.herokuapp.com/)               | 天       | ❌        | ❌        | 推荐                |
+| ~~[Free Proxies](https://proxypoolsstest.herokuapp.com/)~~           | 天       | ❌        | ❌        | 推荐                |
 | [放牧的风](https://www.youneed.win/free-ssr)         | 天       | ❌        | ✅        | 推荐         |
 | [免费节点 Incn](https://lncn.org/)                           | 周       | ❌        | ✅        |            |
 | [Github/Alvin9999](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) | 周       | ❌        | ❌        |              |
-| [ssrshare.com分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/) | 天       | ❌        | ✅       |              |
-| [ssrshare.com分享网站](https://ssrtool.us/tool/free_ssr) | 天       | ❌        | ✅        |              |
+| ~~[ssrshare分享社区](https://www.ssrshare.com/forums/ssr-socks-v2ray.2/)~~ | 天       | ❌        | ✅       |              |
+| [ssrshare分享网站](https://ssrtool.us/tool/free_ssr) | 天       | ❌        | ✅        |              |
 | [翻墙党论坛](https://fanqiangdang.com/)                      | 天       | ✅        | ✅        |              |
 
 
@@ -72,7 +78,7 @@
 | 名称                                                         | 更新频率 | 注册登录 | 需要翻墙 | 备注         |
 | ------------------------------------------------------------ | -------- | -------- | -------- | ------------ |
 | [放牧的风](https://www.youneed.win/free-v2ray)               | 天       | ❌        | ✅        | 推荐                |
-| [Free Proxies](https://proxypoolsstest.herokuapp.com/)               | 天       | ❌        | ❌        | 推荐                |
+| ~~[Free Proxies](https://proxypoolsstest.herokuapp.com/)~~           | 天       | ❌        | ❌        | 推荐                |
 | [FreeV2ray](https://view.freev2ray.org/)               | 天       | ❌        | ❌        |                 |
 
 
@@ -85,6 +91,8 @@
 作用：以下群组每天都会免费分享各种类型的节点，建议加入以下的群组以备不时之需。
 
 使用方法：
+
+> 以下步骤的前提是你已经具备科学上网能力，你可通过以上提供的几种方式实现。
 
 1. 下载安装 [Telegram](https://telegram.org/)
 2. 第一次使用必须先能够翻出去
